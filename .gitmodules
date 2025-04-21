@@ -1,0 +1,6 @@
+[submodule "Art-REST-API"]
+	path = Art-REST-API
+	url = ./Art-REST-API
+[submodule "RussianArt"]
+	path = RussianArt
+	url = ./RussianArt
