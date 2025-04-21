@@ -1,6 +1,6 @@
 [submodule "Art-REST-API"]
 	path = Art-REST-API
-	url = ./Art-REST-API
+	url = https://github.com/sstrm5/Art-REST-API.git
 [submodule "RussianArt"]
 	path = RussianArt
-	url = ./RussianArt
+	url = https://github.com/IlyaGrishkin/RussianArt.git
